@@ -45,7 +45,3 @@ Product.init(
 );
 
 module.exports = Product;
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
